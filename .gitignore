@@ -1,0 +1,6 @@
+node_modules
+.env
+.data
+.serverless
+package-lock.json
+dump
